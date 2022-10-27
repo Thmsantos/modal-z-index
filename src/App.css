@@ -1,0 +1,121 @@
+#bloco1,
+#bloco2,
+#bloco3,
+#bloco4,
+#bloco5,
+#bloco6,
+#bloco7,
+#bloco8,
+#bloco9,
+#bloco10,
+#bloco11{
+  position: absolute;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  border: 2px solid grey;
+  background: #FFF;
+}
+
+.modal{
+  margin-left: 1200px;
+  margin-top: 390px;
+  width: 220px;
+  height: 130px;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 30px;
+}
+
+/* colocar um botao com modal pra cada carro */
+
+#bloco1{
+  left: 260px;
+  top: 390px;
+  z-index: 5;
+  width: 190px;
+  height: 190px;
+}
+
+#bloco2{
+  left: 520px;
+  top: 440px;
+  z-index: 6;
+  width: 60px;
+  height: 80px;
+}
+
+#bloco3{
+  left: 320px;
+  top: 420px;
+  z-index: 2;
+  width: 280px;
+  height: 310px;
+}
+
+#bloco4{
+  left: 405px;
+  top: 345px;
+  z-index: 7;
+  width: 140px;
+  height: 80px;
+}
+
+#bloco5{
+  left: 520px;
+  top: 380px;
+  z-index: 1;
+  width: 360px;
+  height: 350px;
+}
+
+#bloco6{
+  left: 990px;
+  top: 20px;
+  z-index: 1;
+  width: 150px;
+  height: 50px;
+}
+
+#bloco7{
+  left: 548px;
+  top: 317px;
+  width: 120px;
+  height: 60px;
+  z-index: 5;
+}
+
+#bloco8{
+  left: 500px;
+  top: 180px;
+  z-index: 1;
+  width: 110px;
+  height: 50px;
+}
+
+#bloco9{
+  left: 600px;
+  top: 168px;
+  width: 140px;
+  height: 70px;
+  z-index: 7;
+}
+
+#bloco10{
+  left: 810px;
+  top: 20px;
+  height: 600px;
+  width: 330px;
+  z-index: 0;
+}
+
+#bloco11{
+  left: 590px;
+  top: 70px;
+  z-index: 6;
+  width: 60px;
+  height: 80px;
+}
+
+
+
